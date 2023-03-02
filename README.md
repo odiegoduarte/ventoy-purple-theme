@@ -22,6 +22,7 @@
 
 ### Links
 
+- [Pling](https://www.pling.com/p/1996159/)
 - [Ventoy Website](https://www.ventoy.net)
 
 
